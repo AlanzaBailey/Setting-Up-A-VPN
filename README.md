@@ -188,6 +188,5 @@ This demonstrates how location and network configuration can impact your visible
   
 </p>
 <br />
-If you no longer need the VM, ensure to remove it from the Asure account for unwanted charges.
+If you no longer need the Virtual Machine, ensure to remove it from the Asure account for unwanted charges.
 
-END OF TUTORIAL
